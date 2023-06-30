@@ -34,5 +34,5 @@ Pandas, numpy, re, googletrans, matplotlib, seaborn, geopandas, bs4.
 
 *In this repositary:
 - File of data preparation in Python with the extension .ipynb.
-- Data visualization ile of Microsoft Power BI with the extension .pbix.
+- Data visualization file of Microsoft Power BI with the extension .pbix.
 
